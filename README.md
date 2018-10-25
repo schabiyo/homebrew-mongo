@@ -14,7 +14,7 @@ The following packages are provided by the APT repository:
 
 | Package | Description | Author | Source |
 | ------- | ----------- | ------ | ------ |
-sherlock      | CLI tool to interact with any Open Service Broker API | schabiyo | [schabiyo/sherlock](https://github.com/schabiyo/sherlock)
+sherlock      | CLI tool to search through MongoDB Atlas or Cloud manager | schabiyo | [schabiyo/sherlock](https://github.com/schabiyo/sherlock)
 atlas-cli   | CLI tool to interact with the Atlas API | schabiyo | [schabiyo/atlas-cli](https://github.com/mongo/atlas-cli)
 
 To install a package from our tap, run:
